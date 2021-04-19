@@ -25,7 +25,8 @@
 
 <div class="col-6">
 <p align="right">
-<img src="https://user-images.githubusercontent.com/77207167/115290400-7abafe80-a121-11eb-944f-6b6acd1bbffb.gif" >
+<img src="https://user-images.githubusercontent.com/77207167/115290400-7abafe80-a121-11eb-944f-6b6acd1bbffb.gif" height="45%" width="45%" />
+
 </p>
 
 </div>
