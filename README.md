@@ -9,7 +9,7 @@
     ⏺ 👯 I’m looking to collaborate on challenging projects
     ⏺ 🤔 I’m looking for help with job opportunities
     ⏺ 📫 How to reach me: f.sultanay@gmail.com or www.fatihsultanay.com
-    ⏺ 😄 Pronouns: ...
+
 
 
 <p align="center">
