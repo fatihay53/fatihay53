@@ -1,5 +1,5 @@
 
-<h1 align="center", margin="5%">                      👨🏻‍💻  Welcome to my GitHub Coding World 👨🏻‍💻 </h1>
+<h1 align="center", margin="5%">                      👨🏻‍💻  Welcome to my Coding World 👨🏻‍💻 </h1>
 
 
 <p>⏺🔭 I’m currently working on multiple projects </p>
