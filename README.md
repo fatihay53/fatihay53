@@ -6,15 +6,15 @@
 
 
 
-<h2>⏺🔭 I’m currently working on multiple projects </h2>
+<h3>⏺🔭 I’m currently working on multiple projects </h3>
 
-<h2>⏺ 🌱 I’m currently learning 
+<h3>⏺ 🌱 I’m currently learning 
 
-![Python license](https://img.shields.io/badge/Phyton-blue.svg)![CSS Advance](https://img.shields.io/badge/CSS-green.svg) </h2>
+![Python license](https://img.shields.io/badge/Phyton-blue.svg)![CSS Advance](https://img.shields.io/badge/CSS-green.svg) </h3>
 
-<h2>⏺ 👯 I’m looking to collaborate on challenging projects </h2>
-<h2>⏺ 🤔 I’m looking for help with job opportunities</h2>
-<h2>⏺ 📫 How to reach me: f.sultanay@gmail.com or www.fatihsultanay.com</h2>
+<h3>⏺ 👯 I’m looking to collaborate on challenging projects </h3>
+<h3>⏺ 🤔 I’m looking for help with job opportunities</h3>
+<h3>⏺ 📫 How to reach me: f.sultanay@gmail.com or www.fatihsultanay.com</h3>
 
 
 
