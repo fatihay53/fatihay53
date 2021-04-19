@@ -1,20 +1,15 @@
-<!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous"> -->
 
 <h1 align="center", margin="5%">                      👨🏻‍💻  Welcome to my GitHub Coding World 👨🏻‍💻 </h1>
 
 
+<p>⏺🔭 I’m currently working on multiple projects </p>
+<p>⏺ 🌱 I’m currently learning 
 
+![Python license](https://img.shields.io/badge/Phyton-blue.svg)![CSS Advance](https://img.shields.io/badge/CSS-green.svg) </p>
 
-
-<h3>⏺🔭 I’m currently working on multiple projects </h3>
-
-<h3>⏺ 🌱 I’m currently learning 
-
-![Python license](https://img.shields.io/badge/Phyton-blue.svg)![CSS Advance](https://img.shields.io/badge/CSS-green.svg) </h3>
-
-<h3>⏺ 👯 I’m looking to collaborate on challenging projects </h3>
-<h3>⏺ 🤔 I’m looking for help with job opportunities</h3>
-<h3>⏺ 📫 How to reach me: f.sultanay@gmail.com or www.fatihsultanay.com</h3>
+<p>⏺ 👯 I’m looking to collaborate on challenging projects </p>
+<p>⏺ 🤔 I’m looking for help with job opportunities</p>
+<p>⏺ 📫 How to reach me: f.sultanay@gmail.com or www.fatihsultanay.com</p>
 
 
 
