@@ -1,13 +1,35 @@
-### Hi there 👋
+
+<h1 align="center", margin="5%">                      👨🏻‍💻  Welcome to my GitHub Coding World 👨🏻‍💻 </h1>
 
 
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python,CSS advance
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with job opportunities
-- 💬 Ask me about ...
-- 📫 How to reach me: f.sultanay@gmail.com or www.fatihsultanay.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    ⏺ 🔭 I’m currently working on multiple projects
+    ⏺  🌱 I’m currently learning Python,CSS advance
+    ⏺ 👯 I’m looking to collaborate on challenging projects
+    ⏺ 🤔 I’m looking for help with job opportunities
+    ⏺ 📫 How to reach me: f.sultanay@gmail.com or www.fatihsultanay.com
+    ⏺ 😄 Pronouns: ...
 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77207167/115284517-c5854800-a11a-11eb-82be-34338110447d.png" >
+</p>
+
+## Questions:
+   
+<h1 align="center">
+
+     Reach Me Out ❗️ 
+
+                              
+[![github](https://user-images.githubusercontent.com/77207167/111052614-58e7a100-842a-11eb-834d-21aa5fa25e2e.png)][1]
+[![linkedin](https://user-images.githubusercontent.com/77207167/111052328-d362f180-8427-11eb-93b2-db395a9da005.png)][2]
+[![Gmail](https://user-images.githubusercontent.com/77207167/111044783-9e02d780-8418-11eb-80c7-65c663549a9e.png)][3] 
+[![Website](https://user-images.githubusercontent.com/77207167/115284447-b0a8b480-a11a-11eb-8d09-4619dd002f59.png)][4] 
+
+[1]: https://github.com/fatihay53
+[2]: https://www.linkedin.com/in/fatih-sultan-ay-211689181
+[3]: mailto:f.sultanay@gmail.com
+[4]: https://www.fatihsultanay.com
+</h1>
