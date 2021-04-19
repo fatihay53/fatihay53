@@ -3,9 +3,10 @@
 
 
 <p>⏺🔭 I’m currently working on multiple projects </p>
-<p>⏺ 🌱 I’m currently learning 
+ 
+ <p>
 
-![Python license](https://img.shields.io/badge/Phyton-blue.svg)![CSS Advance](https://img.shields.io/badge/CSS-green.svg) </p>
+ ⏺🌱 I’m currently learning  ![Python license](https://img.shields.io/badge/Phyton-blue.svg)![CSS Advance](https://img.shields.io/badge/CSS-green.svg) </p>
 
 <p>⏺ 👯 I’m looking to collaborate on challenging projects </p>
 <p>⏺ 🤔 I’m looking for help with job opportunities</p>
