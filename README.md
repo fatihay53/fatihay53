@@ -6,32 +6,26 @@
 
 
 
-<div class="row">
-<div class="col-5">
 <h2>⏺🔭 I’m currently working on multiple projects </h2>
 
 <h2>⏺ 🌱 I’m currently learning 
 
 ![Python license](https://img.shields.io/badge/Phyton-blue.svg)![CSS Advance](https://img.shields.io/badge/CSS-green.svg) </h2>
 
-
-
 <h2>⏺ 👯 I’m looking to collaborate on challenging projects </h2>
 <h2>⏺ 🤔 I’m looking for help with job opportunities</h2>
 <h2>⏺ 📫 How to reach me: f.sultanay@gmail.com or www.fatihsultanay.com</h2>
 
-</div>
 
 
-<div class="col-6">
 <p align="right">
 <img src="https://user-images.githubusercontent.com/77207167/115290400-7abafe80-a121-11eb-944f-6b6acd1bbffb.gif" height="45%" width="45%" />
 
 </p>
 
-</div>
 
-</div>
+
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/77207167/115284517-c5854800-a11a-11eb-82be-34338110447d.png" >
