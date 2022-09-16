@@ -10,7 +10,7 @@
 
 <p>⏺ 👯 I’m looking to collaborate on challenging projects </p>
 <p>⏺ 🤔 I’m looking for help with job opportunities</p>
-<p>⏺ 📫 How to reach me: f.sultanay@gmail.com or www.fatihsultanay.com</p>
+<p>⏺ 📫 How to reach me: f.sultanay@gmail.com or https://fatihay53.github.io/Portfolio1/</p>
 
 
 
@@ -38,5 +38,5 @@
 [1]: https://github.com/fatihay53
 [2]: https://www.linkedin.com/in/fatih-sultan-ay-211689181
 [3]: mailto:f.sultanay@gmail.com
-[4]: https://www.fatihsultanay.com
+[4]: https://fatihay53.github.io/Portfolio1/
 </h1>
